@@ -1,0 +1,12 @@
+name = Magnetizer V2
+author = Mi1
+description = [noupload]Adds a giant magnet which can magnetize objects. This is a complete reimagining of the Magnetizer mod.
+tags=Tool
+
+# If description contains [noupload] the description on Steam workshop will not be overwritten.
+# Available tags (comma-separated):
+# Map      - A custom map with no particular gameplay
+# Gameplay - Mod has a mission, objective or other gameplay
+# Asset    - A collection of assets for others to use
+# Vehicle  - Mod contains drivable, custom vehicles
+# Tool     - Mod adds a custom weapon or other tool
